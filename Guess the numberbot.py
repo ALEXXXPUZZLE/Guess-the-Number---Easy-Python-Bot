@@ -5,7 +5,7 @@ import random
 
 
 
-bot = telebot.TeleBot('8470359939:AAEeFa-NBEWu4GpZeB9LuDTveOlaUx5NxMQ') # <----- import your token from @botfather
+bot = telebot.TeleBot('Your token here') # <----- import your token from @botfather
 tmp_number = []
 
 
