@@ -6,7 +6,7 @@ import random
 
 
 bot = telebot.TeleBot('Your token here') # <----- import your token from @botfather
-tmp_number = []
+tmp_number = [] # <----- temp_integers
 
 
 @bot.message_handler(commands=['help'])
